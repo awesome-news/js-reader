@@ -5,3 +5,10 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "Nicolas Bevacqua"
+
+  - title: "Advanced WebPack Part 1 - The CommonsChunk Plugin"
+    url: "http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/"
+    time: 2015-09-02 23:22:09
+    category: "Tech"
+    tag: "Webpack"
+    author: "Jonathan Creamer"
