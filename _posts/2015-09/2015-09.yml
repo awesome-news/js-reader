@@ -12,3 +12,10 @@ posts:
     category: "Tech"
     tag: "Webpack"
     author: "Jonathan Creamer"
+
+  - title: "ES6 Classes in Depth"
+    url: "http://ponyfoo.com/articles/es6-classes-in-depth"
+    time: 2015-09-03 22:44:10
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
