@@ -19,3 +19,24 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "Nicolas Bevacqua"
+
+  - title: "ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth"
+    url: "http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth"
+    time: 2015-09-05 18:24:10
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
+
+  - title: "5 Questions Every Unit Test Must Answer"
+    url: "https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d"
+    time: 2015-09-05 18:27:23
+    category: "Tech"
+    tag: "UnitTest"
+    author: "Eric Elliott"
+
+  - title: "Angular 2 Survey Results"
+    url: "http://angularjs.blogspot.fi/2015/09/angular-2-survey-results.html"
+    time: 2015-09-05 19:10:11
+    category: "Tech"
+    tag: "Angular"
+    author: "Jeff Whelpley & Patrick Stapleton"
