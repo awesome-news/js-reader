@@ -54,3 +54,31 @@ posts:
     category: "Tech"
     tag: "Architect"
     author: "Sebastián Peyrott"
+
+  - title: "Staying relevant as a programmer"
+    url: "https://www.youtube.com/watch?v=ZZUY37RQS-k"
+    time: 2015-09-08 22:26:18
+    category: "Tech"
+    tag: "Video"
+    author: "mpjme"
+
+  - title: "ES6 Generators in Depth"
+    url: "http://ponyfoo.com/articles/es6-generators-in-depth"
+    time: 2015-09-08 22:47:22
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
+
+  - title: "Typed Arrays in ECMAScript 6"
+    url: "http://www.2ality.com/2015/09/typed-arrays.html"
+    time: 2015-09-08 22:48:22
+    category: "Tech"
+    tag: "ES6"
+    author: "Dr. Axel Rauschmayer"
+
+  - title: "Node v4.0.0 (Stable)"
+    url: "https://new.nodejs.org/en/blog/release/v4.0.0/"
+    time: 2015-09-08 22:49:24
+    category: "Tech"
+    tag: "Node"
+    author: "nodejs.org"
