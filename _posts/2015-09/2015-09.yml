@@ -89,3 +89,17 @@ posts:
     category: "Tech"
     tag: "Functional"
     author: "Ben Howdle"
+
+  - title: "7 Reasons to Upgrade to Node v4 Now"
+    url: "http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html"
+    time: 2015-09-10 19:12:38
+    category: "Tech"
+    tag: "Node"
+    author: "Damien Klinnert"
+
+  - title: "CSS Modules"
+    url: "http://glenmaddern.com/articles/css-modules"
+    time: 2015-09-10 20:28:18
+    category: "Tech"
+    tag: "CSS"
+    author: "Glen Maddern"
