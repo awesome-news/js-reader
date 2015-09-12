@@ -103,3 +103,17 @@ posts:
     category: "Tech"
     tag: "CSS"
     author: "Glen Maddern"
+
+  - title: "ES6 Maps in Depth"
+    url: "http://ponyfoo.com/articles/es6-maps-in-depth"
+    time: 2015-09-10 22:51:28
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
+
+  - title: "State Management with Redux"
+    url: "http://konkle.us/state-management-with-redux/"
+    time: 2015-09-11 23:30:25
+    category: "Tech"
+    tag: "Redux"
+    author: "Brandon Konkle"
