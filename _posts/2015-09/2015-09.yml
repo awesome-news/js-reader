@@ -117,3 +117,17 @@ posts:
     category: "Tech"
     tag: "Redux"
     author: "Brandon Konkle"
+
+  - title: "The names of functions in ES6"
+    url: "http://www.2ality.com/2015/09/function-names-es6.html"
+    time: 2015-09-13 09:39:31+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Dr. Axel Rauschmayer"
+
+  - title: "ES6 WeakMaps, Sets, and WeakSets in Depth"
+    url: "http://ponyfoo.com/articles/es6-weakmaps-sets-and-weaksets-in-depth"
+    time: 2015-09-13 18:42:18+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
