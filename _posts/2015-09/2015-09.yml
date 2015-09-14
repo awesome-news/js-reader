@@ -131,3 +131,10 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "Nicolas Bevacqua"
+
+  - title: "Intro to CSS Modules with React"
+    url: "http://olegakbarov.github.io/react-cssmodules-demo/"
+    time: 2015-09-14 20:13:18+03:00
+    category: "Tech"
+    tag: "React"
+    author: "Oleg Akbarov"
