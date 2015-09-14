@@ -138,3 +138,17 @@ posts:
     category: "Tech"
     tag: "React"
     author: "Oleg Akbarov"
+
+  - title: "Factory Functions in JavaScript"
+    url: "https://www.youtube.com/watch?v=ImwrezYhw4w"
+    time: 2015-09-14 23:23:21+03:00
+    category: "Tech"
+    tag: "Video"
+    author: "mpjme"
+
+  - title: "ES6 Proxies in Depth"
+    url: "http://ponyfoo.com/articles/es6-proxies-in-depth"
+    time: 2015-09-14 23:27:21+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
