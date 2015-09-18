@@ -201,3 +201,17 @@ posts:
     category: "Tech"
     tag: "Opinion"
     author: "Peter Jaszkowiak"
+
+  - title: "Learn Raw React — no JSX, no Flux, no ES6, no Webpack…"
+    url: "http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/"
+    time: 2015-09-17 22:28:23+03:00
+    category: "Tech"
+    tag: "React"
+    author: "James K Nelson"
+
+  - title: "An Introduction to Microservices, Part 2: The API Gateway"
+    url: "https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/"
+    time: 2015-09-17 22:45:52+03:00
+    category: "Tech"
+    tag: "Microservices"
+    author: "Sebastián Peyrott"
