@@ -236,3 +236,10 @@ posts:
     category: "Tech"
     tag: "Immutable"
     author: "zsolt-nagy"
+
+  - title: "I/O-bound vs CPU-bound in Node.js"
+    url: "http://bytearcher.com/articles/io-vs-cpu-bound/"
+    time: 2015-09-21 10:35:23+03:00
+    category: "Tech"
+    tag: "Node"
+    author: "Byte Archer"
