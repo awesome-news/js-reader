@@ -243,3 +243,24 @@ posts:
     category: "Tech"
     tag: "Node"
     author: "Byte Archer"
+
+  - title: "Make ES6, Not Coffee"
+    url: "http://gofore.com/ohjelmistokehitys/make-es6-coffee/"
+    time: 2015-09-22 21:37:11+03:00
+    category: "Tech"
+    tag: "ES6,Opinion"
+    author: "Jaakko Salonen"
+
+  - title: "Composition over Inheritance"
+    url: "https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205"
+    time: 2015-09-22 21:48:39+03:00
+    category: "Tech"
+    tag: "Vedio"
+    author: "Mattias Petter Johansson"
+
+  - title: "ES6 Array Extensions in Depth"
+    url: "http://ponyfoo.com/articles/es6-array-extensions-in-depth"
+    time: 2015-09-22 22:16:33+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
