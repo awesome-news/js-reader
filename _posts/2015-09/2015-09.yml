@@ -264,3 +264,10 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "Nicolas Bevacqua"
+
+  - title: "Introducing the Stamp Specification"
+    url: "https://medium.com/javascript-scene/introducing-the-stamp-specification-77f8911c2fee"
+    time: 2015-09-23 13:31:20+03:00
+    category: "Tech"
+    tag: "Stamp"
+    author: "Eric Elliott"
