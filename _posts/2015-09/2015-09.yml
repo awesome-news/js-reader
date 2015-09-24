@@ -271,3 +271,38 @@ posts:
     category: "Tech"
     tag: "Stamp"
     author: "Eric Elliott"
+
+  - title: "Fundamentals on setting up your bug reporting workflow"
+    url: "http://usersnap.com/blog/bug-reporting-workflow/"
+    time: 2015-09-24 21:44:20+03:00
+    category: "Tech"
+    tag: "workflow"
+    author: "Thomas Peham"
+
+  - title: "ES6 Object Changes in Depth"
+    url: "http://ponyfoo.com/articles/es6-object-changes-in-depth"
+    time: 2015-09-24 21:45:33+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
+
+  - title: "Initial Impressions on GraphQL & Relay"
+    url: "https://kadira.io/blog/graphql/initial-impression-on-react-and-graphql"
+    time: 2015-09-24 22:09:34+03:00
+    category: "Tech"
+    tag: "GraphQL,Relay"
+    author: "Arunoda Susiripala"
+
+  - title: "ES6 Strings (and Unicode, ❤) in Depth"
+    url: "http://ponyfoo.com/articles/es6-strings-and-unicode-in-depth"
+    time: 2015-09-24 22:18:45+03:00
+    category: "Tech"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
+
+  - title: "$q.defer: You're doing it wrong"
+    url: "http://www.codelord.net/2015/09/24/%24q-dot-defer-youre-doing-it-wrong/"
+    time: 2015-09-24 22:20:18+03:00
+    category: "Tech"
+    tag: "promise"
+    author: "Aviv Ben"
