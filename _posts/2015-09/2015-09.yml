@@ -306,3 +306,17 @@ posts:
     category: "Tech"
     tag: "promise"
     author: "Aviv Ben"
+
+  - title: "Every Developer Needs a Code Portfolio"
+    url: "https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110"
+    time: 2015-09-25 20:29:18+03:00
+    category: "Other"
+    tag: "Opinion"
+    author: "Eric Elliott"
+
+  - title: "ES6 Modules in Depth"
+    url: "http://ponyfoo.com/articles/es6-modules-in-depth"
+    time: 2015-09-25 20:33:20+03:00
+    category: "Other"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
