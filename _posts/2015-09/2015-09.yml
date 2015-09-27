@@ -320,3 +320,10 @@ posts:
     category: "Other"
     tag: "ES6"
     author: "Nicolas Bevacqua"
+
+  - title: "ES6 Generators and asynchronous javascript"
+    url: "http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html"
+    time: 2015-09-27 22:12:20+03:00
+    category: "Other"
+    tag: "ES6"
+    author: "Alexander Perry"
