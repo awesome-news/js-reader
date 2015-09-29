@@ -1,9 +1,9 @@
-Geekr
+JS Reader
 ---------
-Community Driven Reading list!
+Community Driven Reading list! High quality daily posts collection for JS developers.
 
 ### The Idea:
-If you have a habbit of reading everyday, there must be some great articles that you want to share with others.
+If you read everyday, there must be some great articles that you want to share with others.
 
 If you were a loyal `xxx reader` user for years, you may have experienced that some great website stopped updating.
 for example dailyjs.com(Thanks to  Alex R. Young)
@@ -27,7 +27,7 @@ yaml file structure:
 posts:
   - title: "JavaScript Application Architecture On The Road To 2015" # title of the post
     url: "http://addyosmani.com/blog/architecture-on-the-road-to-2015/" #link for the post
-    time: 2015-03-15 20:53:11 # The time you add the link.
+    time: 2015-03-15 20:53:11+0300 # The time you add the link.
     category: "Tech"
     tag: "JS,Architecture" # tags for the link, separate by comma.
 ```
