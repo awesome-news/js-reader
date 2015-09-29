@@ -327,3 +327,10 @@ posts:
     category: "Other"
     tag: "ES6"
     author: "Alexander Perry"
+
+  - title: "Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout"
+    url: "https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef"
+    time: 2015-09-29 11:35:20+03:00
+    category: "Other"
+    tag: "Angular"
+    author: "Daniel Brain"
