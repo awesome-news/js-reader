@@ -327,3 +327,10 @@ posts:
     category: "Other"
     tag: "ES6"
     author: "Alexander Perry"
+
+  - title: "ES6 Promises in Depth"
+    url: "http://ponyfoo.com/articles/es6-promises-in-depth"
+    time: 2015-09-28 21:54:21+03:00
+    category: "Other"
+    tag: "ES6"
+    author: "Nicolas Bevacqua"
