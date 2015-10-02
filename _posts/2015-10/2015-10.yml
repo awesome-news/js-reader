@@ -5,3 +5,24 @@ posts:
     category: "Tech"
     tag: "Architect"
     author: "Sebastián Peyrott"
+
+  - title: "10 Interview Questions Every JavaScript Developer Should Know"
+    url: "https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95"
+    time: 2015-10-03 1:04:23
+    category: "Tech"
+    tag: "Interview"
+    author: "Eric Elliott"
+
+  - title: "A cartoon guide to Flux"
+    url: "https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207"
+    time: 2015-10-03 1:11:34
+    category: "Tech"
+    tag: "Flux"
+    author: "Lin Clark"
+
+  - title: "Immutable Data Structures and JavaScript"
+    url: "http://jlongster.com/Using-Immutable-Data-Structures-in-JavaScript"
+    time: 2015-10-03 1:13:38
+    category: "Tech"
+    tag: "Immutable"
+    author: "James Long"
