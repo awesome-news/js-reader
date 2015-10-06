@@ -26,3 +26,10 @@ posts:
     category: "Tech"
     tag: "Immutable"
     author: "James Long"
+
+  - title: "Getting Started with Relay"
+    url: "https://auth0.com/blog/2015/10/06/getting-started-with-relay/"
+    time: 2015-10-06 23:22:58
+    category: "Tech"
+    tag: "Relay"
+    author: "Ryan Chenkie"
