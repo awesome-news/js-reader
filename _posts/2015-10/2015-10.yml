@@ -33,3 +33,17 @@ posts:
     category: "Tech"
     tag: "Relay"
     author: "Ryan Chenkie"
+
+  - title: "Node v4.1.2 released. This is a critical update."
+    url: "https://nodejs.org/en/blog/release/v4.1.2/"
+    time: 2015-10-07 23:43:34
+    category: "Tech"
+    tag: "Node"
+    author: "nodejs.org"
+
+  - title: "React v0.14"
+    url: "http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html"
+    time: 2015-10-08 00:01:34
+    category: "Tech"
+    tag: "React"
+    author: "Ben Alpert"
