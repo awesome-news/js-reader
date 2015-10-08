@@ -47,3 +47,10 @@ posts:
     category: "Tech"
     tag: "React"
     author: "Ben Alpert"
+
+  - title: "Node.js and ES6 Instead of Java – A War Story"
+    url: "http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story"
+    time: 2015-10-08 20:35:34
+    category: "Tech"
+    tag: "Node"
+    author: "Patrick Hund"
