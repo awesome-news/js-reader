@@ -68,3 +68,24 @@ posts:
     category: "Tech"
     tag: "JWT"
     author: "Sebastián Peyrott"
+
+  - title: "Building a Router with Raw React"
+    url: "http://jamesknelson.com/routing-with-raw-react/"
+    time: 2015-10-10 00:24:48
+    category: "Tech"
+    tag: "React"
+    author: "James K Nelson"
+
+  - title: "From REST to GraphQL"
+    url: "https://blog.jacobwgillespie.com/from-rest-to-graphql-b4e95e94c26b"
+    time: 2015-10-10 21:08:23
+    category: "Tech"
+    tag: "GraphQL"
+    author: "Jacob Gillespie"
+
+  - title: "Lazy, composable, and modular JavaScript"
+    url: "https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript"
+    time: 2015-10-10 21:15:30
+    category: "Tech"
+    tag: "JS"
+    author: "Mudit Ameta"
