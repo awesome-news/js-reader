@@ -89,3 +89,10 @@ posts:
     category: "Tech"
     tag: "JS"
     author: "Mudit Ameta"
+
+  - title: "Redux best practices"
+    url: "https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e"
+    time: 2015-10-11 21:21:30
+    category: "Tech"
+    tag: "Redux"
+    author: "Will Becker"
