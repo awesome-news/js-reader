@@ -110,3 +110,24 @@ posts:
     category: "Tech"
     tag: "React"
     author: "James K Nelson"
+
+  - title: "7 Things You Should Know About WebAssembly"
+    url: "https://auth0.com/blog/2015/10/14/7-things-you-should-know-about-web-assembly/"
+    time: 2015-10-16 12:05:39
+    category: "Tech"
+    tag: "WebAssembly"
+    author: "Sebastián Peyrott"
+
+  - title: "The Open Minded Explorer’s Guide to Object Composition"
+    url: "https://medium.com/javascript-scene/the-open-minded-explorer-s-guide-to-object-composition-88fe68961bed"
+    time: 2015-10-16 12:06:56
+    category: "Tech"
+    tag: "JS"
+    author: "Eric Elliott"
+
+  - title: "Node v4.2.0 - the first release covered under the new Long Term Support plan!"
+    url: "https://nodejs.org/en/blog/release/v4.2.0/"
+    time: 2015-10-16 17:10:56
+    category: "Tech"
+    tag: "Node"
+    author: "nodejs.org"
