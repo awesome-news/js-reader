@@ -131,3 +131,17 @@ posts:
     category: "Tech"
     tag: "Node"
     author: "nodejs.org"
+
+  - title: "ES6 Overview in 350 Bullet Points"
+    url: "https://ponyfoo.com/articles/es6"
+    time: 2015-10-16 21:46:32
+    category: "Tech"
+    tag: "ES6"
+    author: "bevacqua.io"
+
+  - title: "Authoring JavaScript modules with ES6"
+    url: "http://javascriptplayground.com/blog/2015/10/authoring-modules-in-es6/"
+    time: 2015-10-16 21:59:32
+    category: "Tech"
+    tag: "ES6"
+    author: "Jack Franklin"
