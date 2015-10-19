@@ -145,3 +145,17 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "Jack Franklin"
+
+  - title: "The struggles of publishing a JavaScript library"
+    url: "http://nolanlawson.com/2015/10/19/the-struggles-of-publishing-a-javascript-library/"
+    time: 2015-10-19 16:11:22
+    category: "Tech"
+    tag: "ES6"
+    author: "Nolan"
+
+  - title: "NodeJS : A quick optimization advice"
+    url: "https://top.fse.guru/nodejs-a-quick-optimization-advice-7353b820c92e"
+    time: 2015-10-19 16:20:31
+    category: "Tech"
+    tag: "Node"
+    author: "Julien"
