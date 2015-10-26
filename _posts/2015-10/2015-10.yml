@@ -159,3 +159,17 @@ posts:
     category: "Tech"
     tag: "Node"
     author: "Julien"
+
+  - title: "More readable Promises with Currying"
+    url: "http://leftfold.tumblr.com/post/122329191792/more-readable-promises-with-currying"
+    time: 2015-10-26 20:29:31
+    category: "Tech"
+    tag: "Promise"
+    author: "Left Fold"
+
+  - title: "Cyclomatic complexity refactoring tips for javascript developers"
+    url: "http://webuniverse.io/cyclomatic-complexity-refactoring-tips/"
+    time: 2015-10-26 21:33:29
+    category: "Tech"
+    tag: "Refactor"
+    author: "Sergey Zarouski"
