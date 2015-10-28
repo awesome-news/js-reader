@@ -173,3 +173,10 @@ posts:
     category: "Tech"
     tag: "Refactor"
     author: "Sergey Zarouski"
+
+  - title: "Get started with ES2015 (ES6) and Meteor"
+    url: "http://info.meteor.com/blog/es2015-get-started"
+    time: 2015-10-28 20:40:29
+    category: "Tech"
+    tag: "ES6"
+    author: "Robert Dickert"
