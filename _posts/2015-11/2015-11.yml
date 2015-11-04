@@ -5,3 +5,17 @@ posts:
     category: "Tech"
     tag: "ReactNative"
     author: "Ruoyu Sun"
+
+  - title: "JavaScript ES6+: var, let, or const?"
+    url: "https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75"
+    time: 2015-11-04 22:42:21
+    category: "Tech"
+    tag: "ES6"
+    author: "Eric Elliott"
+
+  - title: "Will Angular 2 be a success? You bet!"
+    url: "http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/"
+    time: 2015-11-04 22:51:23
+    category: "Tech"
+    tag: "Angular2"
+    author: "Stefan Dobrev"
