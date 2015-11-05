@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
+import injectTapEventPlugin from 'react-tap-event-plugin';
 import PostList from '../components/PostList';
 import Pagination from '../components/Pagination';
 import Indicator from '../components/Indicator';
 import {connect} from 'react-redux';
 import {gotoPage, toggleLike} from '../actions/actions';
+
+injectTapEventPlugin();
 
 class App extends Component {
   componentDidMount() {

@@ -1,6 +1,5 @@
 import React, { Component, PropTypes } from 'react';
 import mui, { CircularProgress } from 'material-ui';
-let ThemeManager = new mui.Styles.ThemeManager();
 
 export default class Indicator extends Component {
   render() {
@@ -13,11 +12,6 @@ export default class Indicator extends Component {
     );
   }
 
-  getChildContext() {
-    return {
-      muiTheme: ThemeManager.getCurrentTheme()
-    };
-  }
 }
 
 Indicator.childContextTypes = {
