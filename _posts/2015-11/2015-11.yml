@@ -26,3 +26,10 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "kangax"
+
+  - title: "The Single Biggest Mistake Programmers Make Every Day"
+    url: "https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308"
+    time: 2015-11-08 22:50:23
+    category: "Tech"
+    tag: "Opinion"
+    author: "Eric Elliott"
