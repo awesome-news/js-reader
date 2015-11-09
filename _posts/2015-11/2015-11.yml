@@ -33,3 +33,10 @@ posts:
     category: "Tech"
     tag: "Opinion"
     author: "Eric Elliott"
+
+  - title: "The Six Things You Need To Know About Babel 6"
+    url: "http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/"
+    time: 2015-11-09 20:11:39
+    category: "Tech"
+    tag: "Babel"
+    author: "James K Nelson"
