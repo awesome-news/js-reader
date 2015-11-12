@@ -47,3 +47,10 @@ posts:
     category: "Tech"
     tag: "Babel"
     author: "James K Nelson"
+
+  - title: "10 Habits of a Happy Node Hacker (2016)"
+    url: "http://blog.heroku.com/archives/2015/11/10/node-habits-2016"
+    time: 2015-11-12 22:38:28
+    category: "Tech"
+    tag: "Node"
+    author: "Heroku Hunter"
