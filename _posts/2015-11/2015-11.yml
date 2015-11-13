@@ -54,3 +54,17 @@ posts:
     category: "Tech"
     tag: "Node"
     author: "Heroku Hunter"
+
+  - title: "Anatomy of a large Angular application"
+    url: "https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994"
+    time: 2015-11-13 22:36:03
+    category: "Tech"
+    tag: "Angular,Opinion"
+    author: "Kristian Poslek"
+
+  - title: "Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews."
+    url: "https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/"
+    time: 2015-11-13 22:43:22
+    category: "Tech"
+    tag: "Javascript"
+    author: "b_n(reddit)"
