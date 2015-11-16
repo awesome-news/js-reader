@@ -68,3 +68,10 @@ posts:
     category: "Tech"
     tag: "Javascript"
     author: "b_n(reddit)"
+
+  - title: "What’s in ECMAScript 2016 (ES7)?"
+    url: "https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/"
+    time: 2015-11-16 22:25:26
+    category: "Tech"
+    tag: "Javascript"
+    author: "Axel Rauschmayer"
