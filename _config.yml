@@ -15,3 +15,5 @@ outputDir: dist
 cname: reader.js.org
 
 pageSize: 10
+
+rss: http://reader.js.org/feed.xml
