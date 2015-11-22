@@ -82,3 +82,10 @@ posts:
     category: "Tech"
     tag: "React"
     author: "Paul O’Shannessy"
+
+  - title: "GraphQL is the King. Long Live the King! (R.I.P. REST)"
+    url: "https://medium.com/@scbarrus/graphql-is-the-king-long-live-the-king-r-i-p-rest-cf04ce38f6c#.9xj35klml"
+    time: 2015-11-12 22:48:54
+    category: "Tech"
+    tag: "GraphQL"
+    author: "S.C. Barrus"
