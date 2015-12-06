@@ -13,3 +13,9 @@ posts:
     tag: "React"
     author: "André Staltz"
 
+  - title: "Top 10 ES6 Features Every Busy JavaScript Developer Must Know"
+    url: "http://webapplog.com/es6/"
+    time: 2015-12-07 23:29:47
+    category: "Tech"
+    tag: "ES6"
+    author: "webapplog.com"
