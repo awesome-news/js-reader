@@ -19,3 +19,17 @@ posts:
     category: "Tech"
     tag: "ES6"
     author: "webapplog.com"
+
+  - title: "Does taking a callback make a function asynchronous?"
+    url: "http://bytearcher.com/articles/does-taking-a-callback-make-a-function-asynchronous/"
+    time: 2015-12-08 23:25:21
+    category: "Tech"
+    tag: "JS"
+    author: "Byte Archer"
+
+  - title: "React 0.14: Why Local Component State is a Trap"
+    url: "https://www.safaribooksonline.com/blog/2015/10/29/react-local-component-state/"
+    time: 2015-12-08 23:29:21
+    category: "Tech"
+    tag: "React"
+    author: "Richard Feldman"
