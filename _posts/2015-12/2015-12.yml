@@ -33,3 +33,10 @@ posts:
     category: "Tech"
     tag: "React"
     author: "Richard Feldman"
+
+  - title: "JavaScript Developer Survey Results"
+    url: "https://ponyfoo.com/articles/javascript-developer-survey-results"
+    time: 2015-12-11 23:53:39
+    category: "Tech"
+    tag: "JS"
+    author: "ponyfoo.com"
