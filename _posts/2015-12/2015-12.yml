@@ -40,3 +40,10 @@ posts:
     category: "Tech"
     tag: "JS"
     author: "ponyfoo.com"
+
+  - title: "Babel and CommonJS modules"
+    url: "http://www.2ality.com/2015/12/babel-commonjs.html"
+    time: 2015-12-13 22:49:34
+    category: "Tech"
+    tag: "Babel"
+    author: "Dr. Axel"
