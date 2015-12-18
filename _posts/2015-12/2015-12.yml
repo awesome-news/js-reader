@@ -47,3 +47,17 @@ posts:
     category: "Tech"
     tag: "Babel"
     author: "Dr. Axel"
+
+  - title: "How to export a JavaScript module to multiple formats"
+    url: "http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/"
+    time: 2015-12-18 21:30:23
+    category: "Tech"
+    tag: "webpack"
+    author: "Thomas Bartel"
+
+  - title: "One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases"
+    url: "https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617"
+    time: 2015-12-18 21:30:23
+    category: "Tech"
+    tag: "npm"
+    author: "Stephan Bonnemann"
