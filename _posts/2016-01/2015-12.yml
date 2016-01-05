@@ -1,0 +1,14 @@
+posts:
+  - title: "Testing UI projects: we’re doing it wrong"
+    url: "https://medium.com/@dominictobias/testing-ui-projects-we-re-doing-it-wrong-99919b0c070c#.rr3afi37c"
+    time: 2015-01-05 21:48:23
+    category: "Tech"
+    tag: "Testing"
+    author: "Dominic Tobias"
+
+  - title: "How to Become a Better Node.js Developer in 2016"
+    url: "https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/"
+    time: 2015-01-05 21:53:14
+    category: "Tech"
+    tag: "JS"
+    author: "Gergely Nemeth"
