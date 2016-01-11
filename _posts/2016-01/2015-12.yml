@@ -12,3 +12,10 @@ posts:
     category: "Tech"
     tag: "JS"
     author: "Gergely Nemeth"
+
+  - title: "The Sad State of Web Development"
+    url: "https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.etyj9jigl"
+    time: 2015-01-11 21:36:14
+    category: "Tech"
+    tag: "options"
+    author: "Michael"
