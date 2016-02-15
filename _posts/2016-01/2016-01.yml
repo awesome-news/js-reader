@@ -5,3 +5,10 @@ posts:
     category: "Tech"
     tag: "JS"
     author: "Andrew Rabon"
+
+  - title: "Cache API"
+    url: "https://davidwalsh.name/cache"
+    time: 2016-02-15 19:57:23
+    category: "Tech"
+    tag: "JS"
+    author: "David Walsh"
