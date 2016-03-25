@@ -5,3 +5,10 @@ posts:
     category: "Tech"
     tag: "JS"
     author: "joshmanders.com"
+
+  - title: "Introduction to Immutable.js and Functional Programming Concepts"
+    url: "https://auth0.com/blog/2016/03/23/intro-to-immutable-js/"
+    time: 2016-03-25 23:46:23
+    category: "Tech"
+    tag: "functional"
+    author: "Sebastián Peyrott"
