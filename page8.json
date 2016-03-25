@@ -1,0 +1,164 @@
+{
+  "page8": [
+    {
+      "title": "Make ES6, Not Coffee",
+      "url": "http://gofore.com/ohjelmistokehitys/make-es6-coffee/",
+      "time": "15-09-22 18:37:11",
+      "category": "Tech",
+      "tag": "ES6,Opinion",
+      "author": "Jaakko Salonen",
+      "tags": [
+        {
+          "name": "ES6",
+          "color": "#f1e05a"
+        },
+        {
+          "name": "Opinion",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "gofore.com"
+    },
+    {
+      "title": "I/O-bound vs CPU-bound in Node.js",
+      "url": "http://bytearcher.com/articles/io-vs-cpu-bound/",
+      "time": "15-09-21 7:35:23",
+      "category": "Tech",
+      "tag": "Node",
+      "author": "Byte Archer",
+      "tags": [
+        {
+          "name": "Node",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "bytearcher.com"
+    },
+    {
+      "title": "Introduction to Immutable.js",
+      "url": "http://www.zsoltnagy.eu/introduction-to-immutable-js/",
+      "time": "15-09-20 14:53:21",
+      "category": "Tech",
+      "tag": "Immutable",
+      "author": "zsolt-nagy",
+      "tags": [
+        {
+          "name": "Immutable",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "www.zsoltnagy.eu"
+    },
+    {
+      "title": "Why We Moved From Angular to React",
+      "url": "http://blog.belong.co/why-we-moved-from-angular-to-react",
+      "time": "15-09-19 11:8:29",
+      "category": "Tech",
+      "tag": "React,Angular",
+      "author": "Bhargav",
+      "tags": [
+        {
+          "name": "React",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Angular",
+          "color": "#DD1B16"
+        }
+      ],
+      "hostname": "blog.belong.co"
+    },
+    {
+      "title": "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?",
+      "url": "http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/",
+      "time": "15-09-18 19:6:22",
+      "category": "Tech",
+      "tag": "ES6",
+      "author": "Ben McCormick",
+      "tags": [
+        {
+          "name": "ES6",
+          "color": "#f1e05a"
+        }
+      ],
+      "hostname": "benmccormick.org"
+    },
+    {
+      "title": "An Introduction to Microservices, Part 2: The API Gateway",
+      "url": "https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/",
+      "time": "15-09-17 19:45:52",
+      "category": "Tech",
+      "tag": "Microservices",
+      "author": "Sebastián Peyrott",
+      "tags": [
+        {
+          "name": "Microservices",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "auth0.com"
+    },
+    {
+      "title": "Learn Raw React — no JSX, no Flux, no ES6, no Webpack…",
+      "url": "http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/",
+      "time": "15-09-17 19:28:23",
+      "category": "Tech",
+      "tag": "React",
+      "author": "James K Nelson",
+      "tags": [
+        {
+          "name": "React",
+          "color": "#61DAFB"
+        }
+      ],
+      "hostname": "jamesknelson.com"
+    },
+    {
+      "title": "Stop classifying JavaScript",
+      "url": "https://medium.com/@PitaJ/stop-classifying-javascript-4cc823dfbedf",
+      "time": "15-09-17 18:56:23",
+      "category": "Tech",
+      "tag": "Opinion",
+      "author": "Peter Jaszkowiak",
+      "tags": [
+        {
+          "name": "Opinion",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "medium.com"
+    },
+    {
+      "title": "How to Get Coverage Reports with Jest and React JS",
+      "url": "http://blog.redradix.com/get-coverage-reports-with-jest-js-react/",
+      "time": "15-09-17 18:27:18",
+      "category": "Tech",
+      "tag": "Jest",
+      "author": "Miguel del Mazo",
+      "tags": [
+        {
+          "name": "Jest",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "blog.redradix.com"
+    },
+    {
+      "title": "Testing Node.js With Mocha and Chai",
+      "url": "http://mherman.org/blog/2015/09/10/testing-node-js-with-mocha-and-chai/",
+      "time": "15-09-17 18:21:43",
+      "category": "Tech",
+      "tag": "Mocha",
+      "author": "Michael Herman",
+      "tags": [
+        {
+          "name": "Mocha",
+          "color": "#2783BF"
+        }
+      ],
+      "hostname": "mherman.org"
+    }
+  ],
+  "total": 15,
+  "current": 8
+}

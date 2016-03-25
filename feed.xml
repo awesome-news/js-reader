@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JS Reader]]></title>
+        <description><![CDATA[JS Reader]]></description>
+        <link>http://reader.js.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 22:14:22 GMT</lastBuildDate>
+        <atom:link href="http://reader.js.org/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction to Immutable.js and Functional Programming Concepts]]></title>
+            <description><![CDATA[https://auth0.com/blog/2016/03/23/intro-to-immutable-js/]]></description>
+            <link>https://auth0.com/blog/2016/03/23/intro-to-immutable-js/</link>
+            <guid isPermaLink="false">https://auth0.com/blog/2016/03/23/intro-to-immutable-js/</guid>
+            <pubDate>Fri, 25 Mar 2016 23:46:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why You're Experiencing JavaScript Fatigue.]]></title>
+            <description><![CDATA[https://www.joshmanders.com/javascript-fatigue]]></description>
+            <link>https://www.joshmanders.com/javascript-fatigue</link>
+            <guid isPermaLink="false">https://www.joshmanders.com/javascript-fatigue</guid>
+            <pubDate>Wed, 16 Mar 2016 22:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cache API]]></title>
+            <description><![CDATA[https://davidwalsh.name/cache]]></description>
+            <link>https://davidwalsh.name/cache</link>
+            <guid isPermaLink="false">https://davidwalsh.name/cache</guid>
+            <pubDate>Mon, 15 Feb 2016 19:57:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choosing Vanilla JavaScript in 2016]]></title>
+            <description><![CDATA[https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5]]></description>
+            <link>https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5</link>
+            <guid isPermaLink="false">https://medium.com/vanilla-javascript/choosing-vanilla-javascript-in-2016-6f38a8302ee5</guid>
+            <pubDate>Sat, 13 Feb 2016 21:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Sad State of Web Development]]></title>
+            <description><![CDATA[https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.etyj9jigl]]></description>
+            <link>https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.etyj9jigl</link>
+            <guid isPermaLink="false">https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.etyj9jigl</guid>
+            <pubDate>Mon, 11 Jan 2016 21:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Become a Better Node.js Developer in 2016]]></title>
+            <description><![CDATA[https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/]]></description>
+            <link>https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/</link>
+            <guid isPermaLink="false">https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/</guid>
+            <pubDate>Tue, 05 Jan 2016 21:53:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing UI projects: we’re doing it wrong]]></title>
+            <description><![CDATA[https://medium.com/@dominictobias/testing-ui-projects-we-re-doing-it-wrong-99919b0c070c#.rr3afi37c]]></description>
+            <link>https://medium.com/@dominictobias/testing-ui-projects-we-re-doing-it-wrong-99919b0c070c#.rr3afi37c</link>
+            <guid isPermaLink="false">https://medium.com/@dominictobias/testing-ui-projects-we-re-doing-it-wrong-99919b0c070c#.rr3afi37c</guid>
+            <pubDate>Tue, 05 Jan 2016 21:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to export a JavaScript module to multiple formats]]></title>
+            <description><![CDATA[http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/]]></description>
+            <link>http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/</link>
+            <guid isPermaLink="false">http://tech.trivago.com/2015/12/17/export-multiple-javascript-module-formats/</guid>
+            <pubDate>Fri, 18 Dec 2015 21:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One simple trick for JavaScript package maintainers to avoid breaking their user’s software and to ship stable releases]]></title>
+            <description><![CDATA[https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617]]></description>
+            <link>https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617</link>
+            <guid isPermaLink="false">https://medium.com/greenkeeper-blog/one-simple-trick-for-javascript-package-maintainers-to-avoid-breaking-their-user-s-software-and-to-6edf06dc5617</guid>
+            <pubDate>Fri, 18 Dec 2015 21:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Babel and CommonJS modules]]></title>
+            <description><![CDATA[http://www.2ality.com/2015/12/babel-commonjs.html]]></description>
+            <link>http://www.2ality.com/2015/12/babel-commonjs.html</link>
+            <guid isPermaLink="false">http://www.2ality.com/2015/12/babel-commonjs.html</guid>
+            <pubDate>Sun, 13 Dec 2015 22:49:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
